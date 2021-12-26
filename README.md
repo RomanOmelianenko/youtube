@@ -4,4 +4,4 @@
 - HTML
 - CSS
 - SVG Sprites
-- Swipper js
+- Swiper js
